@@ -5,6 +5,9 @@ contributor:
     agent_name: Drevenstedt, Amy
     gutenberg_agent_id: '55411'
     url: http://www.gutenberg.org/2009/agents/55411
+covers:
+- cover_type: archival
+  image_path: 69768-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilder, Thornton
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54602
     wikipedia: https://en.wikipedia.org/wiki/Thornton_Wilder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69768#The-bridge-of-San-Luis-Rey
 gutenberg_issued: '2023-01-11'
 identifiers:
   gutenberg: '69768'
